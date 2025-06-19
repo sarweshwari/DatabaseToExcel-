@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "DatabaseToExcel.Controllers.ExcelController",
+    "Method": "ExportplayersToExcel",
+    "RelativePath": "api/Excel/ExcelData",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
